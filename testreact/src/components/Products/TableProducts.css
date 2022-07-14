@@ -1,0 +1,48 @@
+.title-table{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+    color: #011B33;
+    margin-top: 35px;
+}
+
+.content-header-table{
+    background: #A6A6A7;
+}
+
+.label-header-table{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: bold !important;
+    font-size: 20px;
+    line-height: 160%;
+    color: #01172C;
+}
+
+.content-img{
+    width: 121px;
+    height: 131px;
+}
+
+.label-rows{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 160%;
+    color: #565657;
+}
+
+.content-row-backgroud{
+    background: #E9E9E9;
+}
+
+.label-presencia-positive{
+    color: #23B794 !important;
+}
+
+.label-presencia-negative{
+    color: #D6215B !important;
+}
